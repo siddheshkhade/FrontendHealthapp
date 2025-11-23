@@ -41,6 +41,9 @@ const Header = () => {
           <li className="nav-item">
             <NavLink to = '/contactus' className={'nav-link'}>Contact Us</NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink to = '/contactus' className={'nav-link'}>New appointment</NavLink>
+          </li>
           </ul>
         </Nav>
         </Navbar.Collapse>
